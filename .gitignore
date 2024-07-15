@@ -1,0 +1,6 @@
+# ignore all editor specific files
+.vscode/
+.idea/
+
+# ignore the build directory
+build/
